@@ -1,4 +1,4 @@
-from scraper.runt_flow import consultar
+from scraper.runt_scraper import consultar
 from scraper.parser import parse_result
 from config.selenium_driver import create_driver
 

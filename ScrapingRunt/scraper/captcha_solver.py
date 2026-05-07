@@ -2,7 +2,7 @@ from anticaptchaofficial.recaptchav2proxyless import *
 from config.settings import ANTICAPTCHA_KEY
 
 
-def solve_recaptcha(site_key, url):
+def resolver_captcha(site_key, url):
 
     solver = recaptchaV2Proxyless()
 
@@ -11,9 +11,9 @@ def solve_recaptcha(site_key, url):
     solver.set_website_url(url)
     solver.set_website_key(site_key)
 
-    result = solver.solve_and_return_solution()
+    token = solver.solve_and_return_solution()
 
-    if result != 0:
-        return result
+    if token != 0:
+        return token
     else:
         raise Exception("Captcha no resuelto")
