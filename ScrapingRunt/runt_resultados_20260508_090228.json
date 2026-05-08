@@ -1,0 +1,53 @@
+[
+  {
+    "placa": "HYU017",
+    "documento": "43110695",
+    "info_general": {
+      "PLACA DEL VEHÍCULO": "HYU017",
+      "NRO. DE LICENCIA DE TRÁNSITO": "10025099348",
+      "ESTADO DEL VEHÍCULO": "ACTIVO",
+      "TIPO DE SERVICIO": "Particular",
+      "CLASE DE VEHÍCULO": "AUTOMOVIL",
+      "MARCA": "MAZDA",
+      "LÍNEA": "2",
+      "MODELO": "2017",
+      "COLOR": "TITANIO FLASH",
+      "NÚMERO DE MOTOR": "P540345906",
+      "NÚMERO DE CHASIS": "3MDDJ2HA6HM111397",
+      "NÚMERO DE VIN": "3MDDJ2HA6HM111397",
+      "CILINDRAJE": "1496",
+      "TIPO DE CARROCERÍA": "HATCH BACK",
+      "TIPO COMBUSTIBLE": "GASOLINA",
+      "FECHA DE MATRICULA INICIAL(DD/MM/AAAA)": "13/02/2017",
+      "AUTORIDAD DE TRÁNSITO": "SDT SUBSECRETARÍA DE MOVILIDAD RIONEGRO",
+      "GRAVÁMENES A LA PROPIEDAD": "NO",
+      "CLÁSICO O ANTIGUO": "NO",
+      "REPOTENCIADO": "NO",
+      "REGRABACIÓN MOTOR (SI/NO)": "NO",
+      "REGRABACIÓN CHASIS (SI/NO)": "NO",
+      "REGRABACIÓN SERIE (SI/NO)": "NO",
+      "REGRABACIÓN VIN (SI/NO)": "NO",
+      "VEHÍCULO ENSEÑANZA (SI/NO)": "NO",
+      "PUERTAS": "5"
+    },
+    "soat": {
+      "Número de póliza": "42837765",
+      "Fecha expedición": "30/01/2026",
+      "Fecha inicio de vigencia": "10/02/2026",
+      "Fecha fin de vigencia": "09/02/2027",
+      "Entidad expide SOAT": "SEGUROS GENERALES SURAMERICANA S.A.",
+      "Código tarifa": "511",
+      "Estado": "check_circle\nVIGENTE"
+    },
+    "rtm": {
+      "Tipo Revisión": "REVISION TECNICO-MECANICO",
+      "Fecha Expedición": "09/01/2026",
+      "Fecha Vigencia": "09/01/2027",
+      "CDA expide RTM": "CDA AUTOFULL COLOMBIA NO. 2",
+      "Vigente": "SI",
+      "Nro. certificado": "186790230",
+      "Información consistente": "SI",
+      "Acciones": "download"
+    }
+  }
+]

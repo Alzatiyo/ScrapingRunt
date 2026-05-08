@@ -1,0 +1,20 @@
+ANTICAPTCHA_KEY = "12b7ff819037071b38b2d561d25878bf"
+
+TIPO_DOC = "Cédula Ciudadanía"
+
+URL = "https://portalpublico.runt.gov.co/#/consulta-vehiculo/consulta/consulta-ciudadana"
+URL2 = "http://api.crmgrupoge.com/v3/conectoresimportar"
+
+DB_CONFIG = {
+    "DRIVER": "{ODBC Driver 17 for SQL Server}",
+    "SERVER": "ZEUS",
+    "DATABASE": "Integraciones",
+    "UID": "unoeeadmon",
+    "PWD": "Sa123456"
+}
+
+HEADERS = {
+    "conniKey": "Connikey-motofrenos-TTRAOFO4",
+    "conniToken": "TTRAOFO4RZJRNUUXQTBDMFM2WJHYOESZTZVONE40WJHONEIWVTZRNQ",
+    "Content-Type": "application/json"
+}
