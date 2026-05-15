@@ -1,0 +1,19 @@
+{
+  "ANTICAPTCHA_KEY": "12b7ff819037071b38b2d561d25878bf",
+  "TIPO_DOC": "Cédula Ciudadanía",
+  "URL": "https://portalpublico.runt.gov.co/#/consulta-vehiculo/consulta/consulta-ciudadana",
+
+  "DB_CONFIG": {
+    "DRIVER": "{ODBC Driver 17 for SQL Server}",
+    "SERVER": "172.21.0.138",
+    "DATABASE": "MetroFrenos_DW",
+    "UID": "RobotExposiciones",
+    "PWD": "Metro2026**"
+  },
+
+  "HEADERS": {
+    "conniKey": "Connikey-motofrenos-TTRAOFO4",
+    "conniToken": "TTRAOFO4RZJRNUUXQTBDMFM2WJHYOESZTZVONE40WJHONEIWVTZRNQ",
+    "Content-Type": "application/json"
+  }
+}
